@@ -6,3 +6,4 @@
 ﻿第一次
 >>>>>>> parent of 24c55a7... Update 日记1.txt
 修复了一个bug
+又修复一个bug
